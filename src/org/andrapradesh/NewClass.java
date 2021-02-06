@@ -10,4 +10,8 @@ public class NewClass {
 		// TODO Auto-generated method stub
 
 	}
+	private void school() {
+		// TODO Auto-generated method stub
+
+	}
 }

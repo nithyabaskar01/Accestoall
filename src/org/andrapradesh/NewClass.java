@@ -14,4 +14,8 @@ public class NewClass {
 		// TODO Auto-generated method stub
 
 	}
+	private void comId() {
+		// TODO Auto-generated method stub
+
+	}
 }

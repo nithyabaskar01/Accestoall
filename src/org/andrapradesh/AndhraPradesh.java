@@ -4,11 +4,19 @@ public class AndhraPradesh extends kerala {
 	public void telugu() {
 System.out.println("Andhra = Telgu");
 
- }
-	 public void paris() {
+	}
+	public void paris() {
 		  
 		 System.out.println("paris = French");
 
 
 }
-}
+	public void tamil() {
+		System.out.println("tamil");
+	}
+
+
+ }
+	 
+
+

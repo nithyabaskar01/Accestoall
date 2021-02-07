@@ -9,6 +9,10 @@ public class India extends AndhraPradesh {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void french() {
+		System.out.println("check status");
+	}
 	public static void main(String[] args) {
 		India in = new India();
 	in.Indian ();

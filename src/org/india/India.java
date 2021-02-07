@@ -13,6 +13,13 @@ public class India extends AndhraPradesh {
 	private void french() {
 		System.out.println("check status");
 	}
+	
+	private void welcome() {
+	System.out.println("welcome to programming world!");
+	
+	}
+	
+	
 	public static void main(String[] args) {
 		India in = new India();
 	in.Indian ();
